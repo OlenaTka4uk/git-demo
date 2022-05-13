@@ -1,4 +1,7 @@
-Hello, my dear world.
+Hello, dear world.
 You are beautiful!
 But sometimes you are very strange.
 Good bye.
+
+We add two more lines.
+Here the lines.
