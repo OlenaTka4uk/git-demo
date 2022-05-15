@@ -1,6 +1,16 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello, my dear world!
 You are amazing!
 
 What may I say?
 I say yes!
+=======
+Hello, dear world.
+You are beautiful!
+But sometimes you are very strange.
+Good bye.
+
+We add two more lines.
+Here the lines.
+>>>>>>> 513023506729b63ea8d952b203c79fd83e4c6c44
