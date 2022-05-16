@@ -5,4 +5,10 @@ My friend.
 one more time.
 Hello.
 
+<<<<<<< HEAD
 Hello/Hello!
+=======
+Hello/Hello!
+
+My liebe/
+>>>>>>> feature
